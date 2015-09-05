@@ -71,3 +71,8 @@ Future
 ------
 
 Maybe later I will accept new topics via this repo but for now it is just for correcting my mistakes.
+
+Is it any good?
+---------------
+
+[Yes](https://news.ycombinator.com/item?id=3067434)
